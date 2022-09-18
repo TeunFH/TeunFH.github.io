@@ -62746,7 +62746,7 @@ $1(a){return B.Ad},
 $S:399}
 A.qo.prototype={
 E(a){var s=null,r=A.a([A.h6(A.bL("Assets/Ground Floor.png",s),s,s),A.h6(A.bL("Assets/Schermafbeelding 2022-07-17 om 17.54.02 kopie.png",s),s,s),A.h6(A.bL("Assets/Third Floor kopie.png",s),s,s)],t.p)
-return new A.ud(3,A.cn(A.cD(s,B.f,new A.xS(A.a([B.J9,B.Ja,B.J8],t.vT),B.bX,s),s,s,B.MQ),new A.xU(r,s),s),s)}}
+return new A.ud(3,A.cn(A.cD(s,s,new A.xS(A.a([B.J9,B.Ja,B.J8],t.vT),B.bX,s),s,s,B.MQ),new A.xU(r,s),s),s)}}
 A.pi.prototype={
 E(a){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e=null,d=A.cD(e,B.f,e,B.i,e,B.MS),c=A.cF(e),b=A.T("I am lost",e,e,e,e,e)
 b=A.b3(e,e,A.T("First, try to find out where you are at the moment. Use an app like Google Maps or ask people around you where you are. Please also call your MUN director or chair.",e,e,e,e,e),b)
