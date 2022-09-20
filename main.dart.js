@@ -62409,7 +62409,7 @@ A.mF.prototype={
 ae(){var s=0,r=A.p(t.z)
 var $async$ae=A.q(function(a,b){if(a===1)return A.m(b,r)
 while(true)switch(s){case 0:s=2
-return A.B(A.cf("http://lmuna.eu/topics.html"),$async$ae)
+return A.B(A.cf("https://www.lmuna.eu/copy-of-topics"),$async$ae)
 case 2:return A.n(null,r)}})
 return A.o($async$ae,r)},
 D(a){var s=null
@@ -62418,7 +62418,7 @@ A.mG.prototype={
 ae(){var s=0,r=A.p(t.z)
 var $async$ae=A.q(function(a,b){if(a===1)return A.m(b,r)
 while(true)switch(s){case 0:s=2
-return A.B(A.cf("http://lmuna.eu/topics.html"),$async$ae)
+return A.B(A.cf("https://www.lmuna.eu/copy-of-topics"),$async$ae)
 case 2:return A.n(null,r)}})
 return A.o($async$ae,r)},
 D(a){var s=null
@@ -62427,7 +62427,7 @@ A.mH.prototype={
 ae(){var s=0,r=A.p(t.z)
 var $async$ae=A.q(function(a,b){if(a===1)return A.m(b,r)
 while(true)switch(s){case 0:s=2
-return A.B(A.cf("http://lmuna.eu/topics.html"),$async$ae)
+return A.B(A.cf("https://www.lmuna.eu/copy-of-topics"),$async$ae)
 case 2:return A.n(null,r)}})
 return A.o($async$ae,r)},
 D(a){var s=null
@@ -62436,7 +62436,7 @@ A.mI.prototype={
 ae(){var s=0,r=A.p(t.z)
 var $async$ae=A.q(function(a,b){if(a===1)return A.m(b,r)
 while(true)switch(s){case 0:s=2
-return A.B(A.cf("http://lmuna.eu/topics.html"),$async$ae)
+return A.B(A.cf("https://www.lmuna.eu/copy-of-topics"),$async$ae)
 case 2:return A.n(null,r)}})
 return A.o($async$ae,r)},
 D(a){var s=null
@@ -62445,7 +62445,7 @@ A.np.prototype={
 ae(){var s=0,r=A.p(t.z)
 var $async$ae=A.q(function(a,b){if(a===1)return A.m(b,r)
 while(true)switch(s){case 0:s=2
-return A.B(A.cf("http://lmuna.eu/topics.html"),$async$ae)
+return A.B(A.cf("https://www.lmuna.eu/copy-of-topics"),$async$ae)
 case 2:return A.n(null,r)}})
 return A.o($async$ae,r)},
 D(a){var s=null
@@ -62454,7 +62454,7 @@ A.mK.prototype={
 ae(){var s=0,r=A.p(t.z)
 var $async$ae=A.q(function(a,b){if(a===1)return A.m(b,r)
 while(true)switch(s){case 0:s=2
-return A.B(A.cf("http://lmuna.eu/topics.html"),$async$ae)
+return A.B(A.cf("https://www.lmuna.eu/copy-of-topics"),$async$ae)
 case 2:return A.n(null,r)}})
 return A.o($async$ae,r)},
 D(a){var s=null
@@ -62463,7 +62463,7 @@ A.nV.prototype={
 ae(){var s=0,r=A.p(t.z)
 var $async$ae=A.q(function(a,b){if(a===1)return A.m(b,r)
 while(true)switch(s){case 0:s=2
-return A.B(A.cf("http://lmuna.eu/topics.html"),$async$ae)
+return A.B(A.cf("https://www.lmuna.eu/copy-of-topics"),$async$ae)
 case 2:return A.n(null,r)}})
 return A.o($async$ae,r)},
 D(a){var s=null
@@ -62472,7 +62472,7 @@ A.mr.prototype={
 ae(){var s=0,r=A.p(t.z)
 var $async$ae=A.q(function(a,b){if(a===1)return A.m(b,r)
 while(true)switch(s){case 0:s=2
-return A.B(A.cf("http://lmuna.eu/topics.html"),$async$ae)
+return A.B(A.cf("https://www.lmuna.eu/copy-of-topics"),$async$ae)
 case 2:return A.n(null,r)}})
 return A.o($async$ae,r)},
 D(a){var s=null
@@ -62481,7 +62481,7 @@ A.me.prototype={
 ae(){var s=0,r=A.p(t.z)
 var $async$ae=A.q(function(a,b){if(a===1)return A.m(b,r)
 while(true)switch(s){case 0:s=2
-return A.B(A.cf("http://lmuna.eu/topics.html"),$async$ae)
+return A.B(A.cf("https://www.lmuna.eu/copy-of-topics"),$async$ae)
 case 2:return A.n(null,r)}})
 return A.o($async$ae,r)},
 D(a){var s=null
@@ -62490,7 +62490,7 @@ A.nS.prototype={
 ae(){var s=0,r=A.p(t.z)
 var $async$ae=A.q(function(a,b){if(a===1)return A.m(b,r)
 while(true)switch(s){case 0:s=2
-return A.B(A.cf("http://lmuna.eu/topics.html"),$async$ae)
+return A.B(A.cf("https://www.lmuna.eu/copy-of-topics"),$async$ae)
 case 2:return A.n(null,r)}})
 return A.o($async$ae,r)},
 D(a){var s=null
@@ -62499,7 +62499,7 @@ A.nU.prototype={
 ae(){var s=0,r=A.p(t.z)
 var $async$ae=A.q(function(a,b){if(a===1)return A.m(b,r)
 while(true)switch(s){case 0:s=2
-return A.B(A.cf("http://lmuna.eu/topics.html"),$async$ae)
+return A.B(A.cf("https://www.lmuna.eu/copy-of-topics"),$async$ae)
 case 2:return A.n(null,r)}})
 return A.o($async$ae,r)},
 D(a){var s=null
@@ -62508,7 +62508,7 @@ A.nT.prototype={
 ae(){var s=0,r=A.p(t.z)
 var $async$ae=A.q(function(a,b){if(a===1)return A.m(b,r)
 while(true)switch(s){case 0:s=2
-return A.B(A.cf("http://lmuna.eu/topics.html"),$async$ae)
+return A.B(A.cf("https://www.lmuna.eu/copy-of-topics"),$async$ae)
 case 2:return A.n(null,r)}})
 return A.o($async$ae,r)},
 D(a){var s=null
@@ -62517,7 +62517,7 @@ A.ms.prototype={
 ae(){var s=0,r=A.p(t.z)
 var $async$ae=A.q(function(a,b){if(a===1)return A.m(b,r)
 while(true)switch(s){case 0:s=2
-return A.B(A.cf("http://lmuna.eu/topics.html"),$async$ae)
+return A.B(A.cf("https://www.lmuna.eu/copy-of-topics"),$async$ae)
 case 2:return A.n(null,r)}})
 return A.o($async$ae,r)},
 D(a){var s=null
@@ -62674,13 +62674,13 @@ return A.o($async$pL,r)},
 pG(){var s=0,r=A.p(t.z)
 var $async$pG=A.q(function(a,b){if(a===1)return A.m(b,r)
 while(true)switch(s){case 0:s=2
-return A.B(A.cf("http://lmuna.eu/about.html"),$async$pG)
+return A.B(A.cf("https://www.lmuna.eu/about"),$async$pG)
 case 2:return A.n(null,r)}})
 return A.o($async$pG,r)},
 pJ(){var s=0,r=A.p(t.z)
 var $async$pJ=A.q(function(a,b){if(a===1)return A.m(b,r)
 while(true)switch(s){case 0:s=2
-return A.B(A.cf("http://lmuna.eu/assets/files/Terms-ConditionsLmunA.pdf"),$async$pJ)
+return A.B(A.cf("https://www.lmuna.eu/_files/ugd/3d1782_a69a32f4dc9643f183f0fb3921daec93.pdf"),$async$pJ)
 case 2:return A.n(null,r)}})
 return A.o($async$pJ,r)},
 D(a){var s,r,q,p,o,n,m,l,k=null,j=A.cv(k,k,k,k,k,A.a4("More",k,k,k,k,k)),i=A.bv(B.Bp,B.i),h=A.a4("Map",k,k,k,k,k)
