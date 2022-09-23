@@ -62845,7 +62845,7 @@ return A.aM(A.bf(s,s,s,A.a4(a,s,s,s,s,s)),s,10)},
 $S:52}
 A.HA.prototype={
 D(a){var s=null,r=t.UJ
-return A.iB(A.U(s,A.cl(A.ar(new A.av(A.a("08.30 - 17.15: Cloakroom open (0.27 hall)/08.30 - 09.00: StOff briefing (0.12)/09.00 - 17.00: All committees in session (All conference rooms)/09.15 - 10.30: Q&A guestspeakers (plenary discussion panel) (auditorium)/10.30 - 16.30: Approval Panel in Operation (Side room of director lounge)".split("/"),t.s),new A.a29(),r),!0,r.j("bi.E")),B.y,B.t),s,s,s,s,s,new A.I(20,20,20,20),s),s,B.M,s,s,B.p)}}
+return A.iB(A.U(s,A.cl(A.ar(new A.av(A.a("08.30 - 17.15: Cloakroom open (0.27 hall)/08.30 - 09.00: StOff briefing (0.12)/09.00 - 17.00: All committees in session (All conference rooms)/09.15 - 10.30: Q&A guestspeakers (plenary discussion panel) (auditorium)/10.30 - 16.30: Approval Panel in Operation (Side room of director lounge)/11.00-11.40: Lunch SC, RSC, UNICEF/11.00-11.40: Lunch SC, RSC, UNICEF (0.05 --> 0.03 hall)/11.45-12.25: Lunch ECOSOC, CSW, UNCOPUOS (0.05 --> 0.03 hall)/12.30-13.10: Lunch UNHRC, UNEP, EP (0.05 --> 0.03 hall)/13.15-13.55: Lunch GA1, GA2, GA4, GA6 (0.05 --> 0.03 hall)/13.00 - 16.00: MUN Directors Tour (City Centre)/17.00: End off conference day/17.00 - 17.30: StOff debriefing (0.12)/18.30: School building closed/20.00 - 00.00: Party (Musis Stadstheater)".split("/"),t.s),new A.a29(),r),!0,r.j("bi.E")),B.y,B.t),s,s,s,s,s,new A.I(20,20,20,20),s),s,B.M,s,s,B.p)}}
 A.a29.prototype={
 $1(a){var s=null
 return A.aM(A.bf(s,s,s,A.a4(a,s,s,s,s,s)),s,10)},
